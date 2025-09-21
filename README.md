@@ -324,7 +324,7 @@
 
 <br>
 <P>
-<b> You can get connected to us on - </b> 
+<b> You can register for classes on - </b> 
 <br><br> 
 E-mail : ogeevision@gmail.com <br>
 Instagram id : ogee_vision <br>
