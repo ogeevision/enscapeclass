@@ -71,7 +71,7 @@
                 <div class="w-full md:w-1/2">
                     <h3 class="text-2xl md:text-3xl font-bold mb-4">Why my course works</h3>
                     <p class="text-gray-700 mb-6 text-lg">
-                        Most Enscape tutorials are made by <span class="italic">tech guys not interior designers.</span> They’re overly technical, hard to follow, and full of fluff. This course is made by an interior designer like you, so it talks your language:
+                        Most Enscape tutorials are made by <span class="italic">tech guys not interior designers.</span> They’re overly technical, hard to follow, and full of fluff. This course is made by an architect/interior designer like you, so it talks your language:
                     </p>
                     <ul class="space-y-4">
                         <li class="flex items-start">
